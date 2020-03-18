@@ -1,0 +1,25 @@
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Bookmark with id 33 not found.","level":"error"}
+{"message":"Bookmark with id 33 not found.","level":"error"}
+{"message":"Bookmark with id 33 not found.","level":"error"}
+{"message":"Bookmark with id 22 not found.","level":"error"}
+{"message":"Bookmark with id 21 not found.","level":"error"}
+{"message":"Bookmark with id 33 not found.","level":"error"}
+{"message":"Bookmark with id 2984d645-032e-4ba7-b1b5-f5252c08df28 not found.","level":"error"}
+{"message":"Bookmark with id 2984d645-032e-4ba7-b1b5-f5252c08df28 not found.","level":"error"}
+{"message":"Bookmark with id 2984d645-032e-4ba7-b1b5-f5252c08df28 not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmark/2984d645-032e-4ba7-b1b5-f5252c08df28","level":"error"}
+{"message":"Bookmark with id 2984d645-032e-4ba7-b1b5-f5252c08df28 not found.","level":"error"}
+{"message":"Bookmark with id 2984d645-032e-4ba7-b1b5-f5252c08df28 not found.","level":"error"}
+{"message":"Bookmark with id fa52d1ef-4f97-4a17-8b8c-9c77b4407e29 not found.","level":"error"}
+{"message":"Bookmark with id hello not found.","level":"error"}
+{"message":"Bookmark with id hello not found.","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Bookmark with id 11 not found.","level":"error"}
+{"message":"Bookmark with id 12 not found.","level":"error"}
